@@ -15,6 +15,7 @@ Skills:  <br />
 
 
 
+Quick Facts:  <br />
 🐦 I’m currently learning Swift  <br />
 🤖 Interested in AI and AR  <br />
 
