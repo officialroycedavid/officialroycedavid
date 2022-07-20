@@ -8,10 +8,18 @@
 
 Creating websites for millions of users across the world using Figma and Webflow! 
 
-Skills: HTML/CSS/C/Arduino
+Skills: 
+HTML
+CSS
+C
+Arduino
+Figma 
 
-- 🐦 I’m currently learning Swift 
-- 🤖 Interested in AI and AR 
+
+
+
+🐦 I’m currently learning Swift 
+🤖 Interested in AI and AR 
 
 
 
