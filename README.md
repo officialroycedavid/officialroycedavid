@@ -11,8 +11,11 @@ Skills: HTML/CSS/C/Arduino
 - 🐦 I’m currently learning Swift 
 - 🤖 Interested in AI and AR 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/officialroycedavid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/royce.d_/)  
+<a href="#" class="card">
+      <card onclick="window.location.href= 'https://www.instagram.com/royce.d_/?hl=en'">
+      <i class="fa-brands fa-instagram"></i>
+     
+    </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialroycedavid)](https://github.com/anuraghazra/github-readme-stats)
 
