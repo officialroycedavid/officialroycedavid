@@ -2,7 +2,8 @@
 
 ### Hi there 👋, I'm Royce
 #### UI Designer and Front End Developer
-![UI Designer and Front End Developer](https://thumbs.dreamstime.com/z/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg)
+![UI Designer and Front End Developer](![image](https://user-images.githubusercontent.com/109623203/180025927-b33ec74d-1c5e-43ba-95ed-5fbb9da2e2ff.png)
+)
 
 Creating websites for millions of users across the world using Figma and Webflow! 
 
