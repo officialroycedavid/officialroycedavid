@@ -11,11 +11,7 @@ Skills: HTML/CSS/C/Arduino
 - 🐦 I’m currently learning Swift 
 - 🤖 Interested in AI and AR 
 
-<a href="#" class="card">
-      <card onclick="window.location.href= 'https://www.instagram.com/royce.d_/?hl=en'">
-      <i class="fa-brands fa-instagram"></i>
-     
-    </a>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialroycedavid)](https://github.com/anuraghazra/github-readme-stats)
 
