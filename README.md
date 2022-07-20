@@ -1,13 +1,8 @@
-### Hey There! 👋 
 
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialroycedavid)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋, I'm Royce
 #### UI Designer and Front End Developer
-![UI Designer and Front End Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![UI Designer and Front End Developer](https://thumbs.dreamstime.com/z/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg)
 
 Creating websites for millions of users across the world using Figma and Webflow! 
 
