@@ -9,7 +9,7 @@
 Creating websites for millions of users across the world using Figma and Webflow! 
 
 Skills: 
-💻 HTML, CSS, C, Arduino
+💻 HTML, CSS, C, Arduino  <br />
 🎨 Figma 
 
 
