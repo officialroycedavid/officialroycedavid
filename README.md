@@ -19,11 +19,11 @@ Quick Facts:  <br />
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialroycedavid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialroycedavid&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialroycedavid&show_icons=true&theme=radical)
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=officialroycedavid)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=officialroycedavid&show_icons=true&theme=radical)  
 
 ![Profile views](https://gpvc.arturio.dev/officialroycedavid) 
